@@ -37,7 +37,7 @@ public class FileIp {
             fos.close();
             System.out.println("Output file saved.");*/
         } catch (Exception e) {
-            e.printStackTrace();
+            System.out.println("Error in processFile:"+e);
         }
     }
 

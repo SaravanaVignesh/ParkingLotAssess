@@ -6,10 +6,6 @@ import java.util.Scanner;
 import org.mm.assess.input.FileIp;
 import org.mm.assess.input.InteractiveIp;
 
-/**
- * Hello world!
- *
- */
 public class App {
     public static void main(String[] args) {
         if (args.length == 1) {
