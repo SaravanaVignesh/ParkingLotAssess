@@ -1,0 +1,7 @@
+org\mm\assess\input\FileIp.class
+org\mm\assess\input\InteractiveIp.class
+org\mm\assess\model\ParkingLotStructure.class
+org\mm\assess\service\Processor.class
+org\mm\assess\App.class
+org\mm\assess\common\Constants.class
+org\mm\assess\service\impl\ProcessorImpl.class
