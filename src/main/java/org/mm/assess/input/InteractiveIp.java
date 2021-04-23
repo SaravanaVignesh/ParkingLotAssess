@@ -32,6 +32,7 @@ public class InteractiveIp {
         }
         System.out.println("Output:\n" + "Exiting the application :/");
         in.close();
+        
     }
 
 }
